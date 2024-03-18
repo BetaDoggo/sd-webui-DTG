@@ -12,7 +12,7 @@ from huggingface_hub import Repository
 from llama_cpp import Llama, LLAMA_SPLIT_MODE_NONE
 from transformers import LlamaForCausalLM, LlamaTokenizer, GenerationConfig, PreTrainedModel, PreTrainedTokenizerBase
 
-MODEL_PATH = "KBlueLeaf/DanTagGen"
+MODEL_PATH = "KBlueLeaf/DanTagGen-beta"
 DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 #moved from other file
