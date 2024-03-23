@@ -1,3 +1,5 @@
+# Archived
+This extension is obsolete now, use the official one: https://github.com/KohakuBlueleaf/a1111-sd-webui-dtg
 # sd-webui-DTG
 A simple adaptation of Kohaku's [DanTagGen](https://huggingface.co/KBlueLeaf/DanTagGen?not-for-all-audiences=true) Demo into an a1111 extension. Almost all of the code was taken straight from the original demo: https://huggingface.co/spaces/KBlueLeaf/DTG-demo
 # Purpose
